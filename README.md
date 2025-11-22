@@ -19,9 +19,7 @@ Esplorare la distribuzione geografica e occupazionale dei richiedenti per eviden
 
 ### ⚡ Highlights
 Frodi: 25% dei sinistri etichettati come fraudolenti, con picco nel weekend.  
-Rischio: analisi della severità dei danni e distribuzione oraria (picco alle 15:00).  
-Demografia: focus sullo Stato del West Virginia, con 217 ZIP code coinvolti.  
-
+Rischio: analisi della severità dei danni e distribuzione oraria.
 ### 📊 Sezioni principali
 Dashboard riepilogativo  
 Analisi frodi (tipologie e distribuzione settimanale)  
@@ -49,8 +47,7 @@ Explore geographic and occupational distribution of claimants to highlight disti
 
 ### ⚡ Highlights
 Fraud: 25% of claims flagged as fraudulent, with weekend peaks.  
-Risk: analysis of damage severity and hourly distribution (peak at 3:00 pm).  
-Demographics: focus on the State of West Virginia, with 217 ZIP codes involved.  
+Risk: analysis of damage severity and hourly distribution.  
 
 ### 📊 Main Sections
 Summary dashboard  
